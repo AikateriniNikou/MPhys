@@ -1,5 +1,7 @@
 # MPhys
 
+Calculation of the Luscher Zeta Function.
+
 ## References:
 - Luka Leskovec and Sasa Prelovsek. Scattering phase shifts for two particles of different mass and nonzero total momentum in lattice qcd. Physical Review D, 85(11),
 June 2012.
