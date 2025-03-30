@@ -1,9 +1,11 @@
 # MPhys
 
-Calculation of the Luscher Zeta Function.
+Predicting finite-volume excited state energies
+using $\chi$PT and the Lüscher formula
 
 ## References:
-- Luka Leskovec and Sasa Prelovsek. Scattering phase shifts for two particles of different mass and nonzero total momentum in lattice qcd. Physical Review D, 85(11),
-June 2012.
-- Martin Luscher. Two particle states on a torus and their relation to the scattering
+- M. Luscher. Volume Dependence of the Energy Spectrum in Massive Quantum Field Theories. 2.
+Scattering States. Commun. Math. Phys., 105:153–188, 1986.
+- M. Luscher. Two particle states on a torus and their relation to the scattering matrix. Nucl. Phys.
+B, 354:531–578, 1991.a torus and their relation to the scattering
 matrix. Nucl. Phys. B, 354:531–578, 1991.
