@@ -1,7 +1,7 @@
 # MPhys
 
 Predicting finite-volume excited state energies
-using $\chi$PT and the Lüscher formula
+using ChPT and the Lüscher formula
 
 ## References:
 - M. Luscher. Volume Dependence of the Energy Spectrum in Massive Quantum Field Theories. 2.
